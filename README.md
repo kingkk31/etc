@@ -1,6 +1,5 @@
 <h3>[Information-Security]</h3>
 python project<br/>
-PBE, Simple-DES, forensic, ...
 
 <br/>
 
